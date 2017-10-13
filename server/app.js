@@ -32,7 +32,7 @@ app.listen(port, () => {
 
 
 /////////////////////////
-//  APIs.              //
+//  APIs              //
 ////////////////////////
 
 app.get('/api/test', function(req, res) {
